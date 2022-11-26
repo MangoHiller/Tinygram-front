@@ -27,21 +27,6 @@ yarn serve
 
 Le projet devient disponible sur : [localhost:3000](http://localhost:3000)
 
-## Code-styling
-
-Use :
-
-- prettier [see](https://prettier.io/)
-- eslint [see](https://eslint.org/)
-
-## Testing
-
-Run tests with
-
-```
-yarn test:e2e
-```
-
 ## Build
 
 ```
