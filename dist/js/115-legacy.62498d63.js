@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktinyinsta_front"]=self["webpackChunktinyinsta_front"]||[]).push([[115],{3256:function(n,t,u){u.d(t,{s:function(){return r}});var s=u(6252),e=(0,s.Uk)(" Test layout 2 ");function r(n,t){return(0,s.wg)(),(0,s.iD)("div",null,[e,(0,s.WI)(n.$slots,"default")])}},4115:function(n,t,u){u.r(t);var s=u(3256),e=u(3744);const r={},i=(0,e.Z)(r,[["render",s.s]]);t["default"]=i}}]);
+//# sourceMappingURL=115-legacy.62498d63.js.map
